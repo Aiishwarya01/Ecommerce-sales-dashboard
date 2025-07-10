@@ -79,7 +79,7 @@ Here are some real insights extracted from the dashboard:
 ---
 
 ## 📂 Project Structure
-
+```
 Ecommerce-sales-dashboard/
 │
 ├── E-COMMERCE SALE DASHBOARD(1).pbix     
@@ -88,6 +88,7 @@ Ecommerce-sales-dashboard/
 │   └── E-Commerce_Sales.xlsx            
 ├── Images/
 │   └── dashboard.png             
+```
 
 ---
 
